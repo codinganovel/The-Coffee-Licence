@@ -147,14 +147,26 @@ Coffee License just applies this proven model to open source licensing.
 
 ## Economics, Not Discrimination
 Coffee License doesn’t discriminate against persons or groups - it uses standard economic pricing based on objective, public criteria:
-✅ Measurable threshold: Net worth is factual, not subjective✅ Universal application: Same rules for everyone above the line✅ Changeable status: Economic conditions can be restructured✅ Industry standard: Ability-to-pay pricing is everywhere
+
+	✅ Measurable threshold: Net worth is factual, not subjective
+ 	✅ Universal application: Same rules for everyone above the line
+	✅ Changeable status: Economic conditions can be restructured
+	✅ Industry standard: Ability-to-pay pricing is everywhere
+
 If this were “discrimination,” then so would be:
-	•	Student discounts
-	•	Progressive taxation
-	•	Enterprise software pricing
-	•	Senior citizen discounts
-	•	Volume pricing tiers
+	
+•	Student discounts
+	
+•	Progressive taxation
+	
+•	Enterprise software pricing
+	
+•	Senior citizen discounts
+	
+•	Volume pricing tiers
+
 The choice is simple: Either ability-to-pay pricing is legitimate business practice, or half the economy is “discriminatory.”
+
 Coffee License treats economic capacity the same way every other industry does - those with greater resources contribute proportionally to the systems they benefit from.
 
 ## FAQ
