@@ -136,6 +136,15 @@ Aggressive: $100M threshold, $100 fee
 3. **Developers get recognition** → Forced contact creates relationships
 4. **Everyone wins** → Small fee, huge goodwill
 
+## Industry Precedent
+
+This isn't a radical new concept - **tiered pricing based on company size is already standard**:
+- Apple charges 15% vs 30% App Store fees based on revenue
+- Google has similar graduated pricing structures
+- Amazon uses volume-based pricing across services
+
+Coffee License just applies this proven model to open source licensing.
+
 ## FAQ
 
 **Q: How do companies actually pay?**
