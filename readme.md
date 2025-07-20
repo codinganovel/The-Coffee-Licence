@@ -82,23 +82,41 @@ This project is licensed under the Coffee License.
 ## Examples
 
 Projects using Coffee License:
+
 [zont](https://github.com/codinganovel/zont)
+
 [Yanked](https://github.com/codinganovel/yanked)
+
 [templet](https://github.com/codinganovel/templet)
+
 [stampt](https://github.com/codinganovel/stampt)
+
 [smallt](https://github.com/codinganovel/smallt)
-[scriptedt](https://github.com/codinganovel/scriptedt)        
-[ql](https://github.com/codinganovel/ql)   
-[pow](https://github.com/codinganovel/pow)   
-[nav](https://github.com/codinganovel/nav)    
-[mkmd](https://github.com/codinganovel/mkmd)     
-[mdns](https://github.com/codinganovel/mdns)       
-[loip](https://github.com/codinganovel/loip)       
+
+[scriptedt](https://github.com/codinganovel/scriptedt)
+
+[ql](https://github.com/codinganovel/ql)
+
+[pow](https://github.com/codinganovel/pow)
+
+[nav](https://github.com/codinganovel/nav)
+
+[mkmd](https://github.com/codinganovel/mkmd)
+
+[mdns](https://github.com/codinganovel/mdns)
+
+[loip](https://github.com/codinganovel/loip)
+
 [linkt](https://github.com/codinganovel/linkt)
-[gitnot](https://github.com/codinganovel/gitnot)        
-[blipt](https://github.com/codinganovel/blipt)        
-[focust](https://github.com/codinganovel/focust)      
-[chng](https://github.com/codinganovel/chng)       
+
+[gitnot](https://github.com/codinganovel/gitnot)
+
+[blipt](https://github.com/codinganovel/blipt)
+
+[focust](https://github.com/codinganovel/focust)
+
+[chng](https://github.com/codinganovel/chng)
+
 [findt](https://github.com/codinganovel/findt)
 
 ## Customization
