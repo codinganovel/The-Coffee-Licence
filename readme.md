@@ -83,6 +83,8 @@ This project is licensed under the Coffee License.
 
 Projects using Coffee License:
 
+[Neucal](https://github.com/codinganovel/neucal)
+
 [zont](https://github.com/codinganovel/zont)
 
 [Yanked](https://github.com/codinganovel/yanked)
