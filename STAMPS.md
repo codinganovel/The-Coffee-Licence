@@ -1,7 +1,7 @@
 # Coffee License Stamps
 
-- ['coffee-stamps-collection.md'](coffee-stamps-collection.md) - Collection of stamps pre-prepared for different languages
-- ['coffee-stamp-template.txt'](coffee-stamp-template.txt) - The Base Text Template
+- [`coffee-stamps-collection.md`](coffee-stamps-collection.md) - Collection of stamps pre-prepared for different languages
+- [`coffee-stamp-template.txt`](coffee-stamp-template.txt) - The Base Text Template
 
 **Making compliance frictionless for developers**
 

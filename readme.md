@@ -152,7 +152,7 @@ A: Absolutely! Customize the threshold and fee for your project.
 - [`LICENSE-COFFEE.md`](LICENSE-COFFEE.md) - The main license (free version)
 - [`LICENSE-COFFEE-COMMERCIAL.md`](LICENSE-COFFEE-COMMERCIAL.md) - Commercial version  
 - [`WHY.md`](WHY.md) - Philosophy and reasoning
-- ['STAMPS.md'](STAMPS.md) - Stamps are **copy-paste ready copyright notices** that make using the Coffee License as simple as possible.
+- [`STAMPS.md`](STAMPS.md) - Stamps are **copy-paste ready copyright notices** that make using the Coffee License as simple as possible.
 - [`LICENSE.txt`](LICENSE.txt) - The cc0 License the entire repo is in.
 
 ## Which Files Do I Need?
