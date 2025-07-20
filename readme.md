@@ -21,6 +21,10 @@ Y88888P Y888888P  `Y88P' Y88888P VP   V8P `8888Y' Y88888P
 
 *"Free for everyone. Coffee money for billionaires."*
 
+or
+
+> “If you're above the threshold but would prefer not to pay, feel free to restructure your assets until you're technically not.”
+
 ## What is this?
 
 The Coffee License is a permissive open source license that asks mega-corporations to pay a small fee (default: $50) while keeping software completely free for everyone else.
@@ -78,7 +82,24 @@ This project is licensed under the Coffee License.
 ## Examples
 
 Projects using Coffee License:
-- [ql](https://github.com/codinganovel/ql) - interactive command launcher
+[zont](https://github.com/codinganovel/zont)
+[Yanked](https://github.com/codinganovel/yanked)
+[templet](https://github.com/codinganovel/templet)
+[stampt](https://github.com/codinganovel/stampt)
+[smallt](https://github.com/codinganovel/smallt)
+[scriptedt](https://github.com/codinganovel/scriptedt)        
+[ql](https://github.com/codinganovel/ql)   
+[pow](https://github.com/codinganovel/pow)   
+[nav](https://github.com/codinganovel/nav)    
+[mkmd](https://github.com/codinganovel/mkmd)     
+[mdns](https://github.com/codinganovel/mdns)       
+[loip](https://github.com/codinganovel/loip)       
+[linkt](https://github.com/codinganovel/linkt)
+[gitnot](https://github.com/codinganovel/gitnot)        
+[blipt](https://github.com/codinganovel/blipt)        
+[focust](https://github.com/codinganovel/focust)      
+[chng](https://github.com/codinganovel/chng)       
+[findt](https://github.com/codinganovel/findt)
 
 ## Customization
 
