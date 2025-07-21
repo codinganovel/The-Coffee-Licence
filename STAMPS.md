@@ -57,6 +57,6 @@ The Coffee License is about making courtesy as easy as possible. These stamps re
 
 ---
 
-For language-specific stamps with proper comment formatting, see the [complete collection](STAMPS-COLLECTION.md).
+For language-specific stamps with proper comment formatting, see the [complete collection](coffee-stamps-collection.md).
 
 *Making licensing simple, one stamp at a time* ☕
